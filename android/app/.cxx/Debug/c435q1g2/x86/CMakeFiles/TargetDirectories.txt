@@ -1,0 +1,2 @@
+C:/digital_staff_outstation_report/android/app/.cxx/Debug/c435q1g2/x86/CMakeFiles/edit_cache.dir
+C:/digital_staff_outstation_report/android/app/.cxx/Debug/c435q1g2/x86/CMakeFiles/rebuild_cache.dir

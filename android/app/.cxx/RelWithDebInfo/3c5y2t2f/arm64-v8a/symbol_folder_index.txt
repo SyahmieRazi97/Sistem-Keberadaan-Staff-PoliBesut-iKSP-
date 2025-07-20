@@ -1,0 +1,1 @@
+C:\digital_staff_outstation_report\build\app\intermediates\cxx\RelWithDebInfo\3c5y2t2f\obj\arm64-v8a

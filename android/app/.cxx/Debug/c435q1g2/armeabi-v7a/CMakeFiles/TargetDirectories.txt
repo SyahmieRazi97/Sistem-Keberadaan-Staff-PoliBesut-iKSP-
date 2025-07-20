@@ -1,0 +1,2 @@
+C:/digital_staff_outstation_report/android/app/.cxx/Debug/c435q1g2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/digital_staff_outstation_report/android/app/.cxx/Debug/c435q1g2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

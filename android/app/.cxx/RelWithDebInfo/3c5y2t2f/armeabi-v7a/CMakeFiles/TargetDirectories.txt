@@ -1,0 +1,2 @@
+C:/digital_staff_outstation_report/android/app/.cxx/RelWithDebInfo/3c5y2t2f/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/digital_staff_outstation_report/android/app/.cxx/RelWithDebInfo/3c5y2t2f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

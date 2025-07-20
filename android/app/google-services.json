@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266173025328",
+    "project_id": "digital-staffoutstation-report",
+    "storage_bucket": "digital-staffoutstation-report.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266173025328:android:561f4cd760bb9ab7d9f1f5",
+        "android_client_info": {
+          "package_name": "SyahmieRazi.digital_staff_outstation_report"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_hbTtHDgefSsOeA4vxDklo0-LPuiqEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
