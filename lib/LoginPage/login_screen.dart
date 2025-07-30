@@ -123,6 +123,16 @@ class _LoginState extends State<Login> with TickerProviderStateMixin {
     }
   }
 
+  String _buildOrderedStatusText() {
+    List<String> priorityOrder = ['Aktiviti', 'Cuti', 'Urusan Luar', 'Lain-lain'];
+
+    List<Map<String, String>> sortedStatuses = allStatuses.toList()
+      ..sort((a, b) {
+        int indexA = priorityOrder.indexOf(a['statusTitle'] ?? '') ?? 999;
+        int indexB = priorityOrder.indexOf(b['statusTitle'] ?? '') ?? 999;
+        return indexA.compareTo(indexB);
+      });
+
     return sortedStatuses.map((status) {
       String emoji;
       switch (status['statusTitle']) {
